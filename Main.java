@@ -5,9 +5,9 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-   int smart = (int )(Math.random() * 52)+10;
-        if (smart >30)
-            smart=30;
+   int smart = (int )(Math.random() * 50)+10;
+        if (smart >=30)
+            smart= (int )(Math.random()*11+19);
    int leftover = 30-smart;
    int agility = (int )(Math.random() * leftover)+10;
    int str = 50-smart-agility;
