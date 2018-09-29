@@ -1,0 +1,25 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=59716:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bwyli\IdeaProjects\Orc'ed\out\production\Orc'ed Main
+Your Agility Level is 10
+Your Intelligence Level is 27
+Your Strength Level is 13
+ 
+Your 1st Magic Missile Spell did 133.0 damage!
+Your 2nd Magic Missile Spell did 86.0 damage!
+Your 3rd Magic Missile Spell did 166.0 damage!
+Your 4th Magic Missile Spell did 193.0 damage!
+Your 5th Magic Missile Spell did 146.0 damage!
+Your 6th Magic Missile Spell did 91.0 damage!
+Your 7th Magic Missile Spell did 120.0 damage!
+Your 8th Magic Missile Spell did 144.0 damage!
+Your 9th Magic Missile Spell did 154.0 damage!
+Your 10th Magic Missile Spell did 160.0 damage!
+
+The Orc was left with, -393 Health
+
+You have defeated the Orc!
+ - The intelligence level must be at least 19 in order to achieve a 60-70% win rate with a modifier of 0.5-1.5.
+ - The base damage of the Magic Missile Spell must be at least level 10 to have a 60-70% win rate.
+ - Out of 10 trials, 7 defeated the Orc.
+27
+
+Process finished with exit code 0
